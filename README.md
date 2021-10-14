@@ -1,11 +1,11 @@
 # ljycrowd
 
-Our resources (especially the publications and datasets) on the research of crowdsourcing. These datasets can be utilized for the research topics related to label aggregation with diverse data formats. 
+Our resources (especially the publications and datasets) on the research of crowdsourcing. These datasets can be utilized for the research topics such as crowdsourced label aggregation (truth discovery) with diverse data formats. 
 
 ## Categorical Label
 
 ### Difficult Heterogeneous-Answer Multiple-Choice Questions
-The questions are heterogeneous-answer multiple-choice questions; the crowd answers are categorical labels. It contains difficult tasks that require highly specialized knowledge and the ability of a large majority of the workers is inadequate. The number of experts is very small and the average accuracy of crowd labels in each dataset relatively low. 
+The questions are heterogeneous-answer multiple-choice questions; the crowd answers are categorical labels. It contains difficult tasks that require highly specialized knowledge and the ability of a large majority of the workers is inadequate. The number of experts is small and the average accuracy of crowd labels in each dataset is low. 
 
 [Hyper Questions: Unsupervised Targeting of a Few Experts in Crowdsourcing](https://dl.acm.org/doi/10.1145/3132847.3132971)
 
@@ -70,7 +70,7 @@ This data contains crowdsourced word sequences with diverse quality, e.g., trans
 	}
 
 ## Pairwise Preference Comparison Label
-Pairwise Preference Comparisons: Whether Object A is perferred to Object B, by Worker W. 
+Pairwise Preference Comparisons: "Whether Object A is perferred to Object B, by Worker W". 
 
 [CrowDEA: Multi-View Idea Prioritization with Crowds](https://ojs.aaai.org/index.php/HCOMP/article/view/7460)
 
@@ -89,11 +89,11 @@ Pairwise Preference Comparisons: Whether Object A is perferred to Object B, by W
 	}
 
 ## Triplet Similarity Comparison Label
-Triplet Similarity Comparisons: Which Object B and Object C is more similar to Object A, by Worker W. 
- 
-[[Data]](https://github.com/garfieldpigljy/CrowdTSC2021)
+Triplet Similarity Comparisons: "Which Object B and Object C is more similar to Object A, by Worker W". 
 
 Paper: Label Aggregation for Crowdsourced Triplet Similarity Comparisons: to appear. 
+
+[[Data]](https://github.com/garfieldpigljy/CrowdTSC2021)
 
 	@inproceedings{CrowdTSC2021,
 		title = "Label Aggregation for Crowdsourced Triplet Similarity Comparisons",
