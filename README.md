@@ -91,7 +91,7 @@ Pairwise Preference Comparisons: Whether Object A is perferred to Object B, by W
 ## Triplet Similarity Comparison Label
 Triplet Similarity Comparisons: Which Object B and Object C is more similar to Object A, by Worker W. 
  
-[Data](https://github.com/garfieldpigljy/CrowdTSC2021)
+[[Data]](https://github.com/garfieldpigljy/CrowdTSC2021)
 
 Paper: Label Aggregation for Crowdsourced Triplet Similarity Comparisons: to appear. 
 
@@ -104,47 +104,47 @@ Paper: Label Aggregation for Crowdsourced Triplet Similarity Comparisons: to app
 	}
 	
 
-## Publications on Crowdsourcing
+## Our Publications on Crowdsourcing
 
-- Jingzheng Li, Hailong Sun, **Jiyi Li**, Zhijun Chen, Renshuai Tao, Yufei Ge, "Learning from Multiple Annotators by Incorporating Instance Features", arXiv preprint arXiv:2106.15146, 2021. (IJCAI 2021 Workshop W03 Weakly Supervised Representation Learning) 
-[URL](https://arxiv.org/abs/2106.15146) 
+- Jingzheng Li, Hailong Sun, **Jiyi Li**, Zhijun Chen, Renshuai Tao, Yufei Ge, "Learning from Multiple Annotators by Incorporating Instance Features", arXiv preprint arXiv:2106.15146, 2021. (IJCAI 2021 Workshop Weakly Supervised Representation Learning (**WSRL 2021**)) 
+[[URL]](https://arxiv.org/abs/2106.15146) 
 
-- **Jiyi Li**, Yasushi Kawase, Yukino Baba, Hisashi Kashima, "Performance as a Constraint: An Improved Wisdom of Crowds Using Performance Regularization", the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020), pp. 1534-1541, Jul. 2020. 
-[URL](https://www.ijcai.org/Proceedings/2020/213) 
+- **Jiyi Li**, Yasushi Kawase, Yukino Baba, Hisashi Kashima, "Performance as a Constraint: An Improved Wisdom of Crowds Using Performance Regularization", the 29th International Joint Conference on Artificial Intelligence (**IJCAI 2020**), pp. 1534-1541, Jul. 2020. 
+[[URL]](https://www.ijcai.org/Proceedings/2020/213) 
 
-- **Jiyi Li**, "Crowdsourced Text Sequence Aggregation based on Hybrid Reliability and Representation", the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020), Virtual event, pp. 1761-1764, Jul. 2020. 
-[URL](https://dl.acm.org/doi/10.1145/3397271.3401239) 
-[PDF](https://drive.google.com/file/d/1o-LR-uZ6u8kcxcq6tdx4vPWSkeb9FJSG/view?usp=sharing) 
-[Data](https://github.com/garfieldpigljy/CrowdWSA2019)
+- **Jiyi Li**, "Crowdsourced Text Sequence Aggregation based on Hybrid Reliability and Representation", the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2020**), Virtual event, pp. 1761-1764, Jul. 2020. 
+[[URL]](https://dl.acm.org/doi/10.1145/3397271.3401239) 
+[[PDF]](https://drive.google.com/file/d/1o-LR-uZ6u8kcxcq6tdx4vPWSkeb9FJSG/view?usp=sharing) 
+[[Data]](https://github.com/garfieldpigljy/CrowdWSA2019)
 
-- Xingkun Zuo, **Jiyi Li**, Qili Zhou, Jianjun Li, Xiaoyang Mao, "AffectI: A Game for Diverse, Reliable, and Efficient Affective Image Annotation", the 28th ACM International Conference on Multimedia (MM 2020), Virtual event, pp. 529-537, Oct. 2020. 
-[URL](https://dl.acm.org/doi/10.1145/3394171.3413744) 
-[PDF](https://drive.google.com/file/d/1A3WAVkYHU0MxFcomA4ch_5Lcqp3EpvZZ/view?usp=sharing) 
+- Xingkun Zuo, **Jiyi Li**, Qili Zhou, Jianjun Li, Xiaoyang Mao, "AffectI: A Game for Diverse, Reliable, and Efficient Affective Image Annotation", the 28th ACM International Conference on Multimedia (**MM 2020**), Virtual event, pp. 529-537, Oct. 2020. 
+[[URL]](https://dl.acm.org/doi/10.1145/3394171.3413744) 
+[[PDF]](https://drive.google.com/file/d/1A3WAVkYHU0MxFcomA4ch_5Lcqp3EpvZZ/view?usp=sharing) 
 
-- Yukino Baba, **Jiyi Li**, Hisashi Kashima, "CrowDEA: Multi-view Idea Prioritization with Crowds", the eighth AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2020), Virtual event, 8(1), pp. 23-32. 
-[URL](https://ojs.aaai.org/index.php/HCOMP/article/view/7460) 
+- Yukino Baba, **Jiyi Li**, Hisashi Kashima, "CrowDEA: Multi-view Idea Prioritization with Crowds", the eighth AAAI Conference on Human Computation and Crowdsourcing (**HCOMP 2020**), Virtual event, 8(1), pp. 23-32. 
+[[URL]](https://ojs.aaai.org/index.php/HCOMP/article/view/7460) 
 
-- **Jiyi Li**, "Budget Cost Reduction for Label Collection with Confusability Based Exploration", the 26th International Conference on Neural Information Processing of the Asia-Pacific Neural Network (ICONIP 2019), Sydney, pp.231-241, Dec.2019. 
-[URL](https://link.springer.com/chapter/10.1007/978-3-030-36802-9_26) 
-[PDF](https://drive.google.com/open?id=1WfGC1nDnWe8h4MZUUk5KC2ETBPQyAhps) 
+- **Jiyi Li**, "Budget Cost Reduction for Label Collection with Confusability Based Exploration", the 26th International Conference on Neural Information Processing of the Asia-Pacific Neural Network (**ICONIP 2019**), Sydney, pp.231-241, Dec.2019. 
+[[URL]](https://link.springer.com/chapter/10.1007/978-3-030-36802-9_26) 
+[[PDF]](https://drive.google.com/open?id=1WfGC1nDnWe8h4MZUUk5KC2ETBPQyAhps) 
 
-- **Jiyi Li**, Fumiyo Fukumoto, "A Dataset of Crowdsourced Word Sequences:  Collections and Answer Aggregation for Ground Truth Creation", the 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP 2019) Workshop on Aggregating and analysing crowdsourced annotations for NLP (AnnoNLP 2019), Hong Kong, pp. 24–28, Nov. 2019. 
-[URL](https://aclanthology.org/D19-5904/) 
-[Data](https://github.com/garfieldpigljy/CrowdWSA2019) 
+- **Jiyi Li**, Fumiyo Fukumoto, "A Dataset of Crowdsourced Word Sequences:  Collections and Answer Aggregation for Ground Truth Creation", the 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (**EMNLP-IJCNLP 2019**) Workshop on Aggregating and analysing crowdsourced annotations for NLP (**AnnoNLP 2019**), Hong Kong, pp. 24–28, Nov. 2019. 
+[[URL]](https://aclanthology.org/D19-5904/) 
+[[Data]](https://github.com/garfieldpigljy/CrowdWSA2019) 
 
-- **Jiyi Li**, Yukino Baba, Hisashi Kashima, "Incorporating Worker Similarity for Label Aggregation in Crowdsourcing", The 27th International Conference on Artificial Neural Networks (ICANN'18), Rhodes, pp.596-606, Oct.2018. 
-[URL](https://link.springer.com/chapter/10.1007/978-3-030-01421-6_57) 
-[PDF](https://drive.google.com/file/d/1GbhFlshet_zNiiY-GXPa58-U4jcmJErd/view?usp=sharing) 
+- **Jiyi Li**, Yukino Baba, Hisashi Kashima, "Incorporating Worker Similarity for Label Aggregation in Crowdsourcing", The 27th International Conference on Artificial Neural Networks (**ICANN 2018**), Rhodes, pp.596-606, Oct.2018. 
+[[URL]](https://link.springer.com/chapter/10.1007/978-3-030-01421-6_57) 
+[[PDF]](https://drive.google.com/file/d/1GbhFlshet_zNiiY-GXPa58-U4jcmJErd/view?usp=sharing) 
 
-- **Jiyi Li**, Yukino Baba, Hisashi Kashima, "Simultaneous Clustering and Ranking from Pairwise Comparisons",  the 27th International Joint Conference on Artificial Intelligence (IJCAI'18), Stockholm, pp.1554-1560, Jul.2018. 
-[URL](https://www.ijcai.org/proceedings/2018/215) 
+- **Jiyi Li**, Yukino Baba, Hisashi Kashima, "Simultaneous Clustering and Ranking from Pairwise Comparisons",  the 27th International Joint Conference on Artificial Intelligence (**IJCAI 20'18**), Stockholm, pp.1554-1560, Jul.2018. 
+[[URL]](https://www.ijcai.org/proceedings/2018/215) 
 
-- **Jiyi Li**, Yukino Baba, Hisashi Kashima, "Hyper Questions: Unsupervised Targeting of a Few Experts in Crowdsourcing", the 26th ACM International Conference on Information and Knowledge Management (CIKM '17), Singapore, pp.1069-1078, Nov. 2017. 
-[URL](https://dl.acm.org/doi/10.1145/3132847.3132971) 
-[PDF](https://drive.google.com/file/d/1BMLReNx-eX5m_B5Pg44a5als3GHMr0VM/view?usp=sharing) 
-[Data](https://dl.acm.org/doi/10.1145/3132847.3132971) 
+- **Jiyi Li**, Yukino Baba, Hisashi Kashima, "Hyper Questions: Unsupervised Targeting of a Few Experts in Crowdsourcing", the 26th ACM International Conference on Information and Knowledge Management (**CIKM 2017**), Singapore, pp.1069-1078, Nov. 2017. 
+[[URL]](https://dl.acm.org/doi/10.1145/3132847.3132971) 
+[[PDF]](https://drive.google.com/file/d/1BMLReNx-eX5m_B5Pg44a5als3GHMr0VM/view?usp=sharing) 
+[[Data]](https://dl.acm.org/doi/10.1145/3132847.3132971) 
 
-- **Jiyi Li**, Hisashi Kashima, "Iterative Reduction Worker Filtering for Crowdsourced Label Aggregation", The 18th International Conference on Web Information Systems Engineering (WISE '17), pp. 46-54, Moscow, Oct. 2017. 
-[URL](https://link.springer.com/chapter/10.1007/978-3-319-68786-5_4)
-[PDF](https://drive.google.com/file/d/1nx0VVrs7xrMqKc7Oz6vdgnX99W5V4-oc/view?usp=sharing)
+- **Jiyi Li**, Hisashi Kashima, "Iterative Reduction Worker Filtering for Crowdsourced Label Aggregation", The 18th International Conference on Web Information Systems Engineering (**WISE 2017**), pp. 46-54, Moscow, Oct. 2017. 
+[[URL]](https://link.springer.com/chapter/10.1007/978-3-319-68786-5_4)
+[[PDF]](https://drive.google.com/file/d/1nx0VVrs7xrMqKc7Oz6vdgnX99W5V4-oc/view?usp=sharing)
 
