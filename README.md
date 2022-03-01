@@ -1,3 +1,6 @@
+<b> At the beginning, this is my suggestion after my terrible experiences of utilizing Amazon Mechanical Turk (as well as AWS Billing System integrated with it). 
+Considering its extremely poor custom services (very late reply, much later reply than promise, no problem can be resolved, stupid technical problems that cannot be resolved, stupid receipt system that will cause crucial problems in the accounting process of your institution), extremely low data quality and very high price of qualification test (but still very poor data quality if you utilize it), I strongly suggest to you, no matter you are a researcher on crowdsourcing or you want to utilize crowdsourcing to collect the data in your own research areas, do NOT utilize Amazon Mechanical Turk !!! </b>
+
 # ljycrowd
 
 Our resources (especially the publications and datasets) on the research of crowdsourcing. These datasets can be utilized for the research topics such as crowdsourced label aggregation (truth discovery) with diverse data formats. 
