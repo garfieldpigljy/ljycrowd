@@ -106,6 +106,21 @@ Paper: Label Aggregation for Crowdsourced Triplet Similarity Comparisons: to app
 
 ## Our Publications on Crowdsourcing
 
+- Xiaotian Lu, **Jiyi Li**, Koh Takeuchi, Hisashi Kashima, "Multiview Representation Learning from Crowdsourced Triplet Comparisons", Proceedings of the ACM Web Conference 2023 (**WWW 2023**), pp. 3827-3836, Apr. 2023.
+[[URL]](https://arxiv.org/abs/2302.03987)
+[[Code]](https://github.com/17bit/multiview_crowdsourcing)
+
+- **Jiyi Li**, "Context-based Collective Preference Aggregation for Prioritizing Crowd Opinions in Social Decision-making", Proceedings of the ACM Web Conference 2022 (**WWW 2022**), pp. 2657-2667, Apr. 2022. [URL][PDF]
+[[URL]](https://dl.acm.org/doi/fullHtml/10.1145/3485447.3512137)
+[[PDF]](https://drive.google.com/file/d/1Q-Hz6JFFW0rGLW5i3cjah7IiIxJuyQ-C/view?usp=sharing)
+
+- Jingzheng Li, Hailong Sun, **Jiyi Li**, "Beyond confusion matrix: learning from multiple annotators with awareness of instance features", **Machine Learning**, 2022.
+[[URL(PDF)]](https://link.springer.com/article/10.1007/s10994-022-06211-x)
+
+- Guoxi Zhang, **Jiyi Li**, Hisashi Kashima, "Improving Pairwise Rank Aggregation via Querying for Rank Difference", Proceedings of the 9th IEEE International Conference on Data Science and Advanced Analytics (**DSAA 2022**), Oct. 2022. [URL][PDF][Video]
+[[URL]](https://ieeexplore.ieee.org/abstract/document/10032454)
+[[PDF]](https://drive.google.com/file/d/18kbU9nt0v6UlC_yNMSUed6E4hFwUdhv_/view?usp=sharing)
+  
 - Jingzheng Li, Hailong Sun, **Jiyi Li**, Zhijun Chen, Renshuai Tao, Yufei Ge, "Learning from Multiple Annotators by Incorporating Instance Features", arXiv preprint arXiv:2106.15146, 2021. (IJCAI 2021 Workshop Weakly Supervised Representation Learning (**WSRL 2021**)) 
 [[URL]](https://arxiv.org/abs/2106.15146) 
 
