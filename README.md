@@ -9,7 +9,8 @@ The questions are heterogeneous-answer multiple-choice questions; the crowd answ
 
 [Hyper Questions: Unsupervised Targeting of a Few Experts in Crowdsourcing](https://dl.acm.org/doi/10.1145/3132847.3132971)
 
-[[Data]](http://www.ml.ist.i.kyoto-u.ac.jp/en/en-research/li2017cikm)
+[[Data (Label Only)]](http://www.ml.ist.i.kyoto-u.ac.jp/en/en-research/li2017cikm)
+[[Data (with Text Content)]](https://github.com/garfieldpigljy/CrowdLabelwithTextContent)
 [[PDF]](https://drive.google.com/file/d/1BMLReNx-eX5m_B5Pg44a5als3GHMr0VM/view?usp=sharing)
 
 	@inproceedings{HyperQuestion,
