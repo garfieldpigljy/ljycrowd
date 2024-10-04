@@ -38,6 +38,7 @@ This data contains crowdsourced word sequences with diverse quality, e.g., trans
 [SIGIR2020: Crowdsourced Text Sequence Aggregation Based on Hybrid Reliability and Representation](https://dl.acm.org/doi/abs/10.1145/3397271.3401239)
 
 [[Data]](https://github.com/garfieldpigljy/CrowdWSA2019)
+[[AnnoNLP2019 PDF]](https://aclanthology.org/D19-5904.pdf)
 [[SIGIR2020 PDF]](https://drive.google.com/file/d/1o-LR-uZ6u8kcxcq6tdx4vPWSkeb9FJSG/view?usp=sharing)
 
 	@inproceedings{CrowdWSA2019,
@@ -76,6 +77,7 @@ Pairwise Preference Comparisons: "Whether Object A is perferred to Object B, by 
 [CrowDEA: Multi-View Idea Prioritization with Crowds](https://ojs.aaai.org/index.php/HCOMP/article/view/7460)
 
 [[Data]](https://github.com/yukinobaba/crowdea)
+[[PDF]](https://ojs.aaai.org/index.php/HCOMP/article/view/7460/7299)
 
 	@article{CrowDEA, 
 		title={CrowDEA: Multi-View Idea Prioritization with Crowds}, 
@@ -95,6 +97,7 @@ Triplet Similarity Comparisons: "Which Object B and Object C is more similar to 
 Paper: Label Aggregation for Crowdsourced Triplet Similarity Comparisons: to appear. 
 
 [[Data]](https://github.com/garfieldpigljy/CrowdTSC2021)
+[[PDF]](https://drive.google.com/file/d/1fBfvhrizRAtFpqIIqzJI72Ps6UQA6QZf/view?usp=sharing)
 
 	@inproceedings{CrowdTSC2021,
 		title = "Label Aggregation for Crowdsourced Triplet Similarity Comparisons",
@@ -106,9 +109,23 @@ Paper: Label Aggregation for Crowdsourced Triplet Similarity Comparisons: to app
 	
 
 ## Our Publications on Crowdsourcing
+- **Jiyi Li**, "Human-LLM Hybrid Text Answer Aggregation for Crowd Annotations", Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024), to appear, Nov. 2024.
 
+- **Jiyi Li**, "A Comparative Study on Annotation Quality of Crowdsourcing and LLM via Label Aggregation", Proceedings of the 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP 2024**), pp. 6525-6529, Apr. 2024. [arXiv][URL(PDF)]
+[[arXiv]](http://arxiv.org/abs/2401.09760)
+[[URL]](https://ieeexplore.ieee.org/document/10447803)
+[[Data]](https://github.com/garfieldpigljy/CrowdLabelwithTextContent)
+
+- Xiaotian Lu, **Jiyi Li**, Zhen Wan, Xiaofeng Lin, Koh Takeuchi and Hisashi Kashima, "Evaluating Saliency Explanations in NLP by Crowdsourcing", the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**), pp. 6431–6443, May. 2024.
+[[URL(PDF)]](https://aclanthology.org/2024.lrec-main.570/)
+
+- **Jiyi Li**, "Learning Representations for Sparse Crowd Answers", Proceedings of the 30th International Conference on Neural Information Processing (**ICONIP 2023**), Part 6, LNCS, pp. 468-480, Nov. 2023.
+[[URL]](https://link.springer.com/chapter/10.1007/978-981-99-8076-5_34)
+[[PDF]](https://drive.google.com/file/d/1ZfHU_8IEum0-JyT5Fklq1bHJNhIu20U5/view?usp=sharing)
+  
 - Xiaotian Lu, **Jiyi Li**, Koh Takeuchi, Hisashi Kashima, "Multiview Representation Learning from Crowdsourced Triplet Comparisons", Proceedings of the ACM Web Conference 2023 (**WWW 2023**), pp. 3827-3836, Apr. 2023.
-[[URL]](https://arxiv.org/abs/2302.03987)
+[[URL(PDF)]](https://dl.acm.org/doi/abs/10.1145/3543507.3583431)
+[[arXiv]](https://arxiv.org/abs/2302.03987)
 [[Code]](https://github.com/17bit/multiview_crowdsourcing)
 
 - **Jiyi Li**, "Context-based Collective Preference Aggregation for Prioritizing Crowd Opinions in Social Decision-making", Proceedings of the ACM Web Conference 2022 (**WWW 2022**), pp. 2657-2667, Apr. 2022.
@@ -123,7 +140,7 @@ Paper: Label Aggregation for Crowdsourced Triplet Similarity Comparisons: to app
 [[PDF]](https://drive.google.com/file/d/18kbU9nt0v6UlC_yNMSUed6E4hFwUdhv_/view?usp=sharing)
   
 - Jingzheng Li, Hailong Sun, **Jiyi Li**, Zhijun Chen, Renshuai Tao, Yufei Ge, "Learning from Multiple Annotators by Incorporating Instance Features", arXiv preprint arXiv:2106.15146, 2021. (IJCAI 2021 Workshop Weakly Supervised Representation Learning (**WSRL 2021**)) 
-[[URL]](https://arxiv.org/abs/2106.15146) 
+[[arXiv]](https://arxiv.org/abs/2106.15146) 
 
 - **Jiyi Li**, Yasushi Kawase, Yukino Baba, Hisashi Kashima, "Performance as a Constraint: An Improved Wisdom of Crowds Using Performance Regularization", the 29th International Joint Conference on Artificial Intelligence (**IJCAI 2020**), pp. 1534-1541, Jul. 2020. 
 [[URL]](https://www.ijcai.org/Proceedings/2020/213) 
@@ -158,7 +175,8 @@ Paper: Label Aggregation for Crowdsourced Triplet Similarity Comparisons: to app
 - **Jiyi Li**, Yukino Baba, Hisashi Kashima, "Hyper Questions: Unsupervised Targeting of a Few Experts in Crowdsourcing", the 26th ACM International Conference on Information and Knowledge Management (**CIKM 2017**), Singapore, pp.1069-1078, Nov. 2017. 
 [[URL]](https://dl.acm.org/doi/10.1145/3132847.3132971) 
 [[PDF]](https://drive.google.com/file/d/1BMLReNx-eX5m_B5Pg44a5als3GHMr0VM/view?usp=sharing) 
-[[Data]](https://dl.acm.org/doi/10.1145/3132847.3132971) 
+[[Data (Label Only)]](http://www.ml.ist.i.kyoto-u.ac.jp/en/en-research/li2017cikm)
+[[Data (with Text Content)]](https://github.com/garfieldpigljy/CrowdLabelwithTextContent)
 
 - **Jiyi Li**, Hisashi Kashima, "Iterative Reduction Worker Filtering for Crowdsourced Label Aggregation", The 18th International Conference on Web Information Systems Engineering (**WISE 2017**), pp. 46-54, Moscow, Oct. 2017. 
 [[URL]](https://link.springer.com/chapter/10.1007/978-3-319-68786-5_4)
